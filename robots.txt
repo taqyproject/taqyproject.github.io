@@ -1,0 +1,5 @@
+Sitemap: https://mukenalarizka.com/sitemap.xml
+
+User-agent: *
+
+Allow: /
