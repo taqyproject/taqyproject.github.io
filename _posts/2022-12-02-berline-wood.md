@@ -8,6 +8,7 @@ date: 2022-12-02 08:00:00 +07:00
 tags: ["berline","wood"]
 thumbnail: /products/mukena-larizka-berline-wood.png
 products: ["/products/mukena-larizka-berline-wood.png","/products/mukena-larizka-berline-wood-1.png","/products/mukena-larizka-berline-wood-2.png","/products/mukena-larizka-berline-wood-3.png","/products/mukena-larizka-berline-wood-4.png"]
+published: false
 ---
 
 ## Mukena Larizka Berline ##
