@@ -8,6 +8,7 @@ date: 2022-12-02 08:00:00 +07:00
 tags: ["berline","ash grey"]
 thumbnail: /products/berline-ash-grey.jpeg
 products: ["/products/berline-ash-grey.jpeg","/products/berline-ash-grey-1.jpeg","/products/berline-ash-grey-2.jpeg","/products/berline-ash-grey-3.jpeg"]
+published: false
 ---
 
 ## Mukena Larizka Berline ##
