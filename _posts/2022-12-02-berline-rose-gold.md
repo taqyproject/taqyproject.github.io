@@ -8,6 +8,7 @@ date: 2022-12-02 08:00:00 +07:00
 tags: ["berline","rose gold"]
 thumbnail: /products/berline-rose-gold.jpeg
 products: ["/products/berline-rose-gold.jpeg","/products/berline-rose-gold-1.jpeg","/products/berline-rose-gold-2.jpeg","/products/berline-rose-gold-3.jpeg"]
+published: false
 ---
 
 ## Mukena Larizka Berline ##
