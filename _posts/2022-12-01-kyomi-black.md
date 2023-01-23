@@ -8,6 +8,7 @@ date: 2022-12-01 08:00:00 +07:00
 tags: ["kyomi","black"]
 thumbnail: /products/kyomi-black.jpeg
 products: ["/products/kyomi-black.jpeg","/products/kyomi-black-1.jpeg","/products/kyomi-black-2.jpeg","/products/kyomi-black-3.jpeg"]
+published: false
 ---
 
 ## Mukena Larizka Kyomi ##
