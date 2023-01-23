@@ -8,6 +8,7 @@ date: 2022-12-03 08:00:00 +07:00
 tags: ["darla","caramel"]
 thumbnail: /products/darla-caramel.jpeg
 products: ["/products/darla-caramel.jpeg","/products/darla-caramel-1.jpeg","/products/darla-caramel-2.jpeg","/products/darla-caramel-3.jpeg"]
+published: false
 ---
 
 ## Mukena Larizka Darla ##
