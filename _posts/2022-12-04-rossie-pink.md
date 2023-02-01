@@ -8,6 +8,7 @@ date: 2022-12-04 08:00:00 +07:00
 tags: ["rossie","pink"]
 thumbnail: /products/rossie-pink.jpeg
 products: ["/products/rossie-pink.jpeg","/products/rossie-pink-1.jpeg","/products/rossie-pink-2.jpeg","/products/rossie-pink-3.jpeg"]
+published: false
 ---
 
 ## Mukena Larizka Rossie ##
