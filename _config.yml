@@ -8,6 +8,9 @@ name: Mukena Larizka | Jual Mukena Terbaru Harga Terbaik & Termurah Februari 202
 # Short bio or description (displayed in the header)
 description: Menyediakan mukena bahan adem terbaru yang bikin betah ibadah
 
+# Lock page
+locked: true
+
 # Keywords for crawling (displayed in the header)
 keywords: mukena, rukuh, ibadah, syar'i, syariah, modern, adem, harga termurah, mukena terbaru
 
@@ -15,7 +18,7 @@ keywords: mukena, rukuh, ibadah, syar'i, syariah, modern, adem, harga termurah, 
 avatar: /assets/img/icon-180.png
 
 # Versioning assets with date
-assets: '2023-02-14T07:09:00Z'
+assets: '2023-02-18T07:09:00Z'
 
 # Theme color for browser tab on mobile
 theme_color: '#fff'
