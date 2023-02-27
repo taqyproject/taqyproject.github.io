@@ -5,7 +5,7 @@ description: Mukena Sara Silky - Mukena Larizka
 price: "215.000"
 price_promo: "177.000"
 date: 2023-02-10 08:00:00 +07:00
-tags: ["Noura","Silky"]
+tags: ["Sara","Silky"]
 thumbnail: /products/mukenalarizka-Mukena-Sara-Silky-01.JPG
 products: ["/products/mukenalarizka-Mukena-Sara-Silky-01.JPG","/products/mukenalarizka-Mukena-Sara-Silky-02.JPG","/products/mukenalarizka-Mukena-Sara-Silky-03.JPG","/products/mukenalarizka-Mukena-Sara-Silky-04.JPG","/products/mukenalarizka-Mukena-Sara-Silky-05.JPG","/products/mukenalarizka-Mukena-Sara-Silky-All-Variant.JPG"]
 ---
