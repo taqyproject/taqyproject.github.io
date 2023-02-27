@@ -8,6 +8,7 @@ date: 2022-12-01 08:00:00 +07:00
 tags: ["kyomi","white"]
 thumbnail: /products/kyomi-white.jpeg
 products: ["/products/kyomi-white.jpeg","/products/kyomi-white-1.jpeg","/products/kyomi-white-2.jpeg","/products/kyomi-white-3.jpeg"]
+published: false
 ---
 
 ## Mukena Larizka Kyomi ##

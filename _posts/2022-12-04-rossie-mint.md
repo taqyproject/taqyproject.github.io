@@ -8,6 +8,7 @@ date: 2022-12-04 08:00:00 +07:00
 tags: ["rossie","mint"]
 thumbnail: /products/rossie-mint.jpeg
 products: ["/products/rossie-mint.jpeg","/products/rossie-mint-1.jpeg","/products/rossie-mint-2.jpeg","/products/rossie-mint-3.jpeg"]
+published: false
 ---
 
 ## Mukena Larizka Rossie ##
