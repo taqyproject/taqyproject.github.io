@@ -47,6 +47,13 @@
 		fbq('track', 'PageView');
 		fbq('track', 'ViewContent');
 	</script>
+	
+	<script type="text/javascript">
+	$('#addToCartButton').click(function() {
+	fbq('track', 'Lead');
+	fbq('track', 'Purchase');
+	  });
+	</script>
 
 	<noscript>
 		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=392496892169704&ev=PageView&noscript=1"/>
