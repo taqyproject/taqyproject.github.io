@@ -12,7 +12,7 @@ products: ["/products/mukenalarizka-Mukena-Talitha-Mocca.JPG"]
 
 ## Mukena Larizka Talitha ##
 
-<center><iframe width="100%" height="500" src="({{ site.baseurl }}/products/mukenalarizka-Mukena-Talitha-Video.mp4)" title="Video Mukena Talitha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="322" height="573" src="https://www.youtube.com/embed/t5U0dtoycJk" title="Video Mukena Talitha - mukenalarizka.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 **Detail Mukena:**
 
