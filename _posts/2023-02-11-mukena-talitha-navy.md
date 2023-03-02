@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Mukena Talitha Mocca
-description: Mukena Talitha Mocca - Mukena Larizka
+title: Mukena Talitha Navy
+description: Mukena Talitha Navy - Mukena Larizka
 price: "229.000"
 price_promo: "183.200"
-date: 2023-02-11 09:00:00 +07:00
+date: 2023-02-11 08:00:20 +07:00
 tags: ["Talitha"]
-thumbnail: /products/mukenalarizka-Mukena-Talitha-Mocca.JPG
-products: ["/products/mukenalarizka-Mukena-Talitha-Mocca.JPG"]
+thumbnail: /products/mukenalarizka-Mukena-Talitha-Navy.JPG
+products: ["/products/mukenalarizka-Mukena-Talitha-Navy.JPG"]
 ---
 
 ## Mukena Larizka Talitha ##

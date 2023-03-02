@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Mukena Talitha Mocca
-description: Mukena Talitha Mocca - Mukena Larizka
+title: Mukena Talitha Maroon
+description: Mukena Talitha Maroon - Mukena Larizka
 price: "229.000"
 price_promo: "183.200"
-date: 2023-02-11 09:00:00 +07:00
+date: 2023-02-11 08:00:40 +07:00
 tags: ["Talitha"]
-thumbnail: /products/mukenalarizka-Mukena-Talitha-Mocca.JPG
-products: ["/products/mukenalarizka-Mukena-Talitha-Mocca.JPG"]
+thumbnail: /products/mukenalarizka-Mukena-Talitha-Maroon.JPG
+products: ["/products/mukenalarizka-Mukena-Talitha-Maroon.JPG"]
 ---
 
 ## Mukena Larizka Talitha ##

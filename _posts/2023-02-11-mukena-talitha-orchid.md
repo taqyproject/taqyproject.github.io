@@ -4,13 +4,15 @@ title: Mukena Talitha Orchid
 description: Mukena Talitha Orchid - Mukena Larizka
 price: "229.000"
 price_promo: "183.200"
-date: 2023-02-10 08:00:00 +07:00
+date: 2023-02-11 08:00:00 +07:00
 tags: ["Talitha"]
 thumbnail: /products/mukenalarizka-Mukena-Talitha-Orchid.JPG
 products: ["/products/mukenalarizka-Mukena-Talitha-Orchid.JPG"]
 ---
 
 ## Mukena Larizka Talitha ##
+
+<center><iframe width="322" height="573" src="https://www.youtube.com/embed/t5U0dtoycJk" title="Video Mukena Talitha - mukenalarizka.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 **Detail Mukena:**
 
