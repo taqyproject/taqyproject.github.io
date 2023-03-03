@@ -113,3 +113,31 @@ footer {
   padding-bottom: 7rem;
  }
 }
+.pagination {
+    margin: 1.5rem;
+    text-align: center;
+    @media (max-width: 767px) {
+        & {
+            text-align: left;
+        }
+    }
+    a, span {
+        display: inline-block;
+        padding: .5rem 1rem;
+        border-radius: .5rem;
+        margin-right: .25rem;
+        margin-bottom: .5rem;
+    }
+    a {
+        color: black;
+        background-color: #eee;
+        &:hover {
+            color: white;
+            background-color: #10b981;
+        }
+    }
+    span {
+        color: white;
+        background-color: #10b981;
+    }
+}
