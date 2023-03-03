@@ -35,8 +35,8 @@ whatsapp_text: Halo%20Mukenalarizka,%0ASaya%20order%20
 #
 
 # Paginate home
-# paginate: 5
-# paginate_path: "/produk/page:num/"
+paginate: 5
+paginate_path: "/produk/:num/"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
