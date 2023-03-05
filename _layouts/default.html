@@ -48,9 +48,6 @@
 		fbq('track', 'PageView');
 		fbq('track', 'ViewContent');
 	</script>
-	
-	<!-- Somewhere there is a button that performs Add to Cart -->
-	<button id="addToCartButton"><a href="{{ site.url }}{url}"/></button>
 
 	<!-- Add Pixel Events to the button's click handler -->
 	<script type="text/javascript">
@@ -58,8 +55,8 @@
 	  button.addEventListener(
 	    'click', 
 	    function() { 
-	      fbq('track', 'AddToCart', {
-	      });          
+	      fbq('track', 'AddToCart');
+	      fbq('track', 'Lead');
 	    },
 	    false
 	  );
