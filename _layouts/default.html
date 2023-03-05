@@ -50,7 +50,7 @@
 	</script>
 	
 	<!-- Somewhere there is a button that performs Add to Cart -->
-	<button id="addToCartButton">Add To Cart</button>
+	<button id="addToCartButton"></button>
 
 	<!-- Add Pixel Events to the button's click handler -->
 	<script type="text/javascript">
@@ -59,10 +59,6 @@
 	    'click', 
 	    function() { 
 	      fbq('track', 'AddToCart', {
-		content_name: '{{ post.title }}', 
-		content_category: 'Mukena Atas Bawah',
-		content_ids: ['1234567'],
-		content_type: 'product',
 	      });          
 	    },
 	    false
