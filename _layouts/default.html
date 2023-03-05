@@ -43,19 +43,30 @@
 		t.src=v;s=b.getElementsByTagName(e)[0];
 		s.parentNode.insertBefore(t,s)}(window, document,'script',
 		'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('set', 'autoConfig', false, '392496892169704');
-		fbq('set', 'autoConfig', false, '1043715133116593');
 		fbq('init', '392496892169704');
 		fbq('init', '1043715133116593');
 		fbq('track', 'PageView');
 		fbq('track', 'ViewContent');
 	</script>
 	
+	<!-- Somewhere there is a button that performs Add to Cart -->
+	<button id="addToCartButton">Add To Cart</button>
+
+	<!-- Add Pixel Events to the button's click handler -->
 	<script type="text/javascript">
-	$('#addToCartButton').click(function() {
-	fbq('track', 'Lead');
-	fbq('track', 'AddToCart');
-	  });
+	  var button = document.getElementById('addToCartButton');
+	  button.addEventListener(
+	    'click', 
+	    function() { 
+	      fbq('track', 'AddToCart', {
+		content_name: '{{ post.title }}', 
+		content_category: 'Mukena Atas Bawah',
+		content_ids: ['1234567'],
+		content_type: 'product',
+	      });          
+	    },
+	    false
+	  );
 	</script>
 
 	<noscript>
