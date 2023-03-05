@@ -47,17 +47,13 @@
 		fbq('init', '1043715133116593');
 		fbq('track', 'PageView');
 		fbq('track', 'ViewContent');
+		fbq('track', 'Lead');
 	</script>
 
 	<script type="text/javascript">
 	$('#addToCartButton').click(function() {
 	fbq('track', 'AddToCart');
 	  });
-		
-	var seconds = 3;
-	setTimeout(function() {
-	  fbq('track', 'Lead');
-	}, seconds * 1000);
 	</script>
 
 	<noscript>
