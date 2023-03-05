@@ -49,17 +49,15 @@
 		fbq('track', 'ViewContent');
 	</script>
 
-	<!-- Add Pixel Events to the button's click handler -->
 	<script type="text/javascript">
-	  var button = document.getElementById('addToCartButton');
-	  button.addEventListener(
-	    'click', 
-	    function() { 
-	      fbq('track', 'AddToCart');
-	      fbq('track', 'Lead');
-	    },
-	    false
-	  );
+	$('#addToCartButton').click(function() {
+	fbq('track', 'AddToCart');
+	  });
+		
+	var seconds = 3;
+	setTimeout(function() {
+	  fbq('track', 'Lead');
+	}, seconds * 1000);
 	</script>
 
 	<noscript>
