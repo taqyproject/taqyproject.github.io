@@ -43,17 +43,15 @@
 		t.src=v;s=b.getElementsByTagName(e)[0];
 		s.parentNode.insertBefore(t,s)}(window, document,'script',
 		'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '392496892169704');
-		fbq('init', '1043715133116593');
+		fbq('set', 'autoConfig', false, '392496892169704', '1043715133116593');
+		fbq('init', '392496892169704', '1043715133116593');
 		fbq('track', 'PageView');
-		fbq('track', 'ViewContent');
-		fbq('track', 'Lead');
-	</script>
-
-	<script type="text/javascript">
-	$('#addToCartButton').click(function() {
-	fbq('track', 'AddToCart');
-	  });
+		fbq('track', 'standart');                                                
+    
+    $("a[href=\"#\"]").click(function(e) {
+        e.preventDefault();
+        return false;
+    });
 	</script>
 
 	<noscript>
