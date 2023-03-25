@@ -8,6 +8,7 @@ date: 2023-02-05 08:00:00 +07:00
 tags: ["Aleyya","Maroon"]
 thumbnail: /products/mukenalarizka-Mukena-Aleyya-Maroon.jpg
 products: ["/products/mukenalarizka-Mukena-Aleyya-Maroon.jpg","/products/mukenalarizka-Mukena-Aleyya-All-Color.jpg"]
+published: false
 ---
 
 ## Mukena Larizka Aleyya ##

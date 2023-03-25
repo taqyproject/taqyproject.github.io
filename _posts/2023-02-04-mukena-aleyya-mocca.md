@@ -8,6 +8,7 @@ date: 2023-02-04 08:00:00 +07:00
 tags: ["Aleyya","Mocca"]
 thumbnail: /products/mukenalarizka-Mukena-Aleyya-Mocca.jpg
 products: ["/products/mukenalarizka-Mukena-Aleyya-Mocca.jpg","/products/mukenalarizka-Mukena-Aleyya-All-Color.jpg"]
+published: false
 ---
 
 ## Mukena Larizka Aleyya ##

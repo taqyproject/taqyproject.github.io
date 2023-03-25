@@ -8,6 +8,7 @@ date: 2023-02-07 08:00:00 +07:00
 tags: ["Aleyya","Emerald"]
 thumbnail: /products/mukenalarizka-Mukena-Aleyya-Emerald.jpg
 products: ["/products/mukenalarizka-Mukena-Aleyya-Emerald.jpg","/products/mukenalarizka-Mukena-Aleyya-All-Color.jpg"]
+published: false
 ---
 
 ## Mukena Larizka Aleyya ##
