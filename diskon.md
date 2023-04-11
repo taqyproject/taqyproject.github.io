@@ -1,9 +1,3 @@
----
-layout: page
-title: Diskon 5%
-permalink: /diskon.html
----
-
 <style>
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
@@ -38,7 +32,7 @@ textarea {
 [type="submit"] {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
-  background:#CC6666;
+  background:#FF0000;
   border-radius:5px;
   border:0;
   cursor:pointer;
@@ -56,12 +50,5 @@ textarea {
  <form method="post" action="https://be.mailketing.co.id/webform.php?id=8998" id="webform"> 
 <input type=email id="email" name="email" class="feedback-input" placeholder="email" required>
 <input type=text id=first_name name=first_name class="feedback-input" placeholder="First Name">
-<input type=text id=last_name name=last_name class="feedback-input" placeholder="Last Name">
-<input type=text id=birth_date name=birth_date class="feedback-input" placeholder="Birth Date">
-<input type=text id=city name=city class="feedback-input" placeholder="City">
-<input type=text id=state name=state class="feedback-input" placeholder="State">
-<input type=text id=country name=country class="feedback-input" placeholder="Country">
-<input type=text id=post_code/zip name=post_code/zip class="feedback-input" placeholder="Post Code/ZIP">
 <input type=text id=mobile name=mobile class="feedback-input" placeholder="Mobile">
-<input type=text id=phone name=phone class="feedback-input" placeholder="Phone">
 <input type="submit" name="submit" value="Daftar Sekarang"></form>
