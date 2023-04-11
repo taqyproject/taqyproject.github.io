@@ -57,4 +57,4 @@ textarea {
 <input type=email id="email" name="email" class="feedback-input" placeholder="email" required>
 <input type=text id=first_name name=first_name class="feedback-input" placeholder="First Name">
 <input type=text id=mobile name=mobile class="feedback-input" placeholder="Mobile">
-<input type="submit" name="submit" value="Daftar Sekarang"></form>
+<input type="submit" name="submit" value="Saya Ambil Diskonnya!"></form>
