@@ -38,7 +38,7 @@ textarea {
 [type="submit"] {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
-  background:#CC6666;
+  background:#FF0000;
   border-radius:5px;
   border:0;
   cursor:pointer;
