@@ -1,3 +1,9 @@
+---
+layout: page
+title: Diskon Eksklusif
+permalink: /diskon.html
+---
+
 <style>
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
@@ -32,7 +38,7 @@ textarea {
 [type="submit"] {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
-  background:#FF0000;
+  background:#CC6666;
   border-radius:5px;
   border:0;
   cursor:pointer;
