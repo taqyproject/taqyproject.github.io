@@ -54,7 +54,7 @@ textarea {
 
 </style>  
  <form method="post" action="https://be.mailketing.co.id/webform.php?id=8998" id="webform"> 
-<input type=email id="email" name="email" class="feedback-input" placeholder="email" required>
-<input type=text id=first_name name=first_name class="feedback-input" placeholder="First Name">
-<input type=text id=mobile name=mobile class="feedback-input" placeholder="Mobile">
+<input type=email id="email" name="email" class="feedback-input" placeholder="Email Kakak" required>
+<input type=text id=first_name name=first_name class="feedback-input" placeholder="Nama Kakak">
+<input type=text id=mobile name=mobile class="feedback-input" placeholder="Nomor WhatsApp">
 <input type="submit" name="submit" value="Saya Ambil Diskonnya!"></form>
