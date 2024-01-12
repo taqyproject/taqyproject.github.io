@@ -1,4 +1,4 @@
-Sitemap: https://mukenalarizka.com/sitemap.xml
+Sitemap: https://mukenalarizka.orderio.my.id/sitemap.xml
 
 User-agent: *
 
